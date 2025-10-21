@@ -1,4 +1,4 @@
-package com.example.SIS_adm_Funcionario.domain.model;
+package com.adm.domain.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;

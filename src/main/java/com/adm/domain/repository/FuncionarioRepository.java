@@ -1,6 +1,6 @@
-package com.example.SIS_adm_Funcionario.domain.repository;
+package com.adm.domain.repository;
 
-import com.example.SIS_adm_Funcionario.domain.model.Funcionario;
+import com.adm.domain.model.Funcionario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

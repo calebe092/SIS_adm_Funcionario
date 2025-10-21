@@ -1,4 +1,4 @@
-package com.example.SIS_adm_Funcionario.domain.exeption;
+package com.adm.domain.exeption;
 
 public class NegocioExeption extends RuntimeException {
 

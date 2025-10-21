@@ -1,4 +1,4 @@
-package com.example.SIS_adm_Funcionario;
+package com.adm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
